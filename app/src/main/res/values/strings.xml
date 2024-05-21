@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WeatherAppAndroid</string>
+
+
+    <string name="explore_the_weather">Explore the Weather</string>
+    <string name="sunny">sunny</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="_24_may_2024">24 May 2024</string>
+    <string name="humidity_icon">Humidity Icon</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed_icon">Wind Speed Icon</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="condition">Condition</string>
+    <string name="sunrise_icon">Sunrise Icon</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset_icon">Sunset Icon</string>
+    <string name="sunset">Sunset</string>
+    <string name="sea_level_icon">Sea Level Icon</string>
+    <string name="sea">Sea</string>
+    <string name="today">Today</string>
+
+</resources>
